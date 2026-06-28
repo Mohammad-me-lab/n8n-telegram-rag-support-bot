@@ -203,12 +203,6 @@ Recommended for:
 
 ## Pinecone Storage
 
-Namespace:
-
-```javascript
-$json.name
-```
-
 Each uploaded file is stored in a separate namespace.
 
 Benefits:
@@ -220,12 +214,6 @@ Benefits:
 ---
 
 ## Retrieval Configuration
-
-Mode:
-
-```text
-retrieve-as-tool
-```
 
 Retriever Description:
 
