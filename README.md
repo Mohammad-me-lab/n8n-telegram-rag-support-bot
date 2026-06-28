@@ -148,12 +148,6 @@ Used for:
 
 ### Pinecone Vector Database
 
-Index:
-
-```text
-starter
-```
-
 Functions:
 
 * Store document embeddings
@@ -256,22 +250,6 @@ Ask:
 
 ```text
 How do I reset the device?
-```
-
----
-
-### Internal Knowledge Base
-
-Upload:
-
-* SOP documents
-* Policies
-* Technical guides
-
-Ask:
-
-```text
-What is the deployment process?
 ```
 
 ---
